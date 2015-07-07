@@ -4,7 +4,7 @@
  Documentation has moved to [marlinfirmware.org](http://www.marlinfirmware.org).
 
 ## Custom Folgertech Prusa i3 Release
-This branch was forked off the lastest release branch of the real Marlin project.  All necessary changes have been made to the configuration files.
+This project was forked off the lastest release branch of the real Marlin project.  All necessary changes have been made to the configuration files.
 
 ## Release Branch
 
