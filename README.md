@@ -1,3 +1,6 @@
+# Changes you must make to the RAMPS board and Host
+This firmware corrects some problems with the Folgertech firmware, namely X-axis issues.  Please move your X-endstop plug one set of pins over to position 6, and change the X-Endstop settings in your host to MAX.
+
 # Marlin 3D Printer Firmware
 <img align="right" src="Documentation/Logo/Marlin%20Logo%20GitHub.png" />
 
